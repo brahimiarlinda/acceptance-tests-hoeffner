@@ -7,7 +7,7 @@ const {
 
 Feature('newsletter-subscription');
 
-Scenario('I can subscribe to the newsletters with an email', ({ I }) => {
+Scenario.only('I can subscribe to the newsletters with an email', ({ I }) => {
     I.amOnPage('/login');
     CookiesComponent.acceptCookies();
     NewsletterRegistrationComponent.registerToNewsletters();

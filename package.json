@@ -12,7 +12,7 @@
     "@codeceptjs/mailslurp-helper": "^1.0.5"
   },
   "scripts": {
-    "test": "codeceptjs run"
+    "test": "codeceptjs run --steps"
   },
   "author": "Arlinda Brahimi",
   "license": "ISC"
