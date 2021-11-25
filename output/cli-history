@@ -1,0 +1,7 @@
+
+
+<<< Recorded commands on Mon Nov 22 2021 20:22:12 GMT+0100 (Central European Standard Time)
+I.refreshPage();
+
+<<< Recorded commands on Wed Nov 24 2021 22:22:37 GMT+0100 (Central European Standard Time)
+I.seeElement('.footerNewsletter__confirmation')
